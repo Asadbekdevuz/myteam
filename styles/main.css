@@ -346,7 +346,7 @@ position: absolute;
   background: #F67E7E;
   padding-top: 76px;
   padding-bottom: 76px;
-  padding-left: 200px;
+  
 }
 .fourth-list{
   max-width: 917px;
@@ -620,7 +620,7 @@ position: absolute;
   background: #F67E7E;
   padding-top: 76px;
   padding-bottom: 76px;
-  padding-right: 50px;
+  
 
 }
 .fourth-list{
@@ -838,18 +838,18 @@ position: absolute;
 .fourth-section{
   padding-top: 84px;
   padding-bottom: 84px;
-
+  
 
 
 }
 .fourth-list{
   display: block;
-  width: 100%;
+  text-align: center;
 
 }
 .fourth-section-title{
-  font-size: 16px;
-  line-height: 16px;
+  font-size: 24px;
+  line-height: 24px;
 
 }
 .contact-last2-us {
