@@ -412,14 +412,13 @@ body {
 .footer-menu-list {
   margin-top: 25px;
   display: flex;
+  justify-content: space-between;
 }
 .footer-menu-items {
  margin-left: -40px;
 
 }
-.footer-menu-last-items{
-  margin-left: 40px ;
-}
+
 
 .footer-address {
   mix-blend-mode: normal;
